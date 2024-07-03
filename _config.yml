@@ -23,7 +23,7 @@ repository               : "Penghao-Dong/Penghao-Dong.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "lab_portrait.jpg"
   name             : "Penghao Dong"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate in Mechanical Engineering"
