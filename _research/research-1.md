@@ -1,6 +1,6 @@
 ---
-title: "Silent Speech Interface for Human-Robot Collaboration."
-excerpt: "We developed unobtrusive silent speech interfaces using optimized materials and deep learning, enabling natural robot control and collaborative tasks for people with voice disorders and for noisy environments. [Paper](https://www.google.com/)<br/><img src='/images/HRC.jpg'>"
+title: "EMG-based Silent Speech Interface for Human-Robot Collaboration."
+excerpt: "We developed unobtrusive silent speech interfaces using optimized materials and deep learning, enabling natural robot control and collaborative tasks for people with voice disorders and for noisy environments.<br/><img src='/images/HRC.jpg'>"
 collection: research
 ---
 
