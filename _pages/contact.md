@@ -10,8 +10,18 @@ author_profile: true
 {% include base_path %}
 
 
-Address: 134 Light Engineering, Stony Brook, NY 11794
+**Address**: 
 
-Phone: 631-820-5446
+134 Light Engineering
 
-E-mail: penghao.dong@stonybrook.edu
+Department of Mechanical Engineering
+
+Stony Brook, NY 11794 USA
+
+**Phone**: 
+
+631-820-5446
+
+**E-mail**: 
+
+penghao.dong@stonybrook.edu
