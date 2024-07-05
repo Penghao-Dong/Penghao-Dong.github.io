@@ -6,7 +6,9 @@ collection: research
 
 This project develops an unobtrusive silent speech recognition system using skin-conformable, self-adhesive, semi-transparent dry electrodes to capture high-fidelity electromyogram signals. Machine learning algorithms decode these signals into spoken words, ensuring robust performance in noisy and dark environments. The system supports real-time analysis through cloud services and MQTT methods. Its applications in augmented reality and medical services highlight its potential to enhance immersive interaction and healthcare.
 
-<video width="560" height="315" controls>
-  <source src="/videos/Timeline3.mov" type="video/mov">
-  Your browser does not support the video tag.
-</video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bEAOrXa8djM?si=U6Hx_2bueZMkF3uE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+This video shows the silent speech-related EMG signal is decoded in real-time to control the movements of an AR character.
+<div style="margin-top: 30px;"></div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bxlpYHsDV7Y?si=ZzfesGh1eUCuY6hJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+This video shows the silent speech-related EMG signal is converted into spoken words for in real-time for healthcare application.
