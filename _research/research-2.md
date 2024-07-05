@@ -5,3 +5,8 @@ collection: research
 ---
 
 This project develops an unobtrusive silent speech recognition system using skin-conformable, self-adhesive, semi-transparent dry electrodes to capture high-fidelity electromyogram signals. Machine learning algorithms decode these signals into spoken words, ensuring robust performance in noisy and dark environments. The system supports real-time analysis through cloud services and MQTT methods. Its applications in augmented reality and medical services highlight its potential to enhance immersive interaction and healthcare.
+
+<video width="560" height="315" controls>
+  <source src="/videos/Timeline3.mov" type="video/mov">
+  Your browser does not support the video tag.
+</video>
