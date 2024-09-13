@@ -11,4 +11,4 @@ This video shows the silent speech-related EMG signal is decoded in real-time to
 <div style="margin-top: 30px;"></div>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bxlpYHsDV7Y?si=ZzfesGh1eUCuY6hJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-This video shows the silent speech-related EMG signal is converted into spoken words for in real-time for healthcare application.
+This video shows the silent speech-related EMG signal is converted into spoken words for in real-time for healthcare applications.
