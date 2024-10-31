@@ -12,7 +12,7 @@ author_profile: true
 {% include base_path %}
 <strong>1.</strong> Decoding Silent Speech Cues From Muscular Biopotential Signals for Efficient Human-Robot Collaborations <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/admt.202400990">Link</a> | <a href="/files/paper_hrc.pdf">PDF</a>
 <div style="margin-top: -20px;"></div>
-<div style="text-indent: 1em;">P. Dong</strong>, S. Tian, S. Chen, Y. Li, S. Li, M. Zheng, S. Yao, <em>Adv. Mater. Tech.</em> <strong>2024</strong>, 2400990.</div>
+<div style="text-indent: 1em;"></strong>P. Dong</strong>, S. Tian, S. Chen, Y. Li, S. Li, M. Zheng, S. Yao, <em>Adv. Mater. Tech.</em> <strong>2024</strong>, 2400990.</div>
 <div style="margin-top: 30px;"></div>
 
 <strong>2.</strong> Multimodal 5‐DOF Stretchable Electromagnetic Actuators toward Haptic Information Delivery <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.202314515">Link</a> | <a href="/files/paper1.pdf">PDF</a>
