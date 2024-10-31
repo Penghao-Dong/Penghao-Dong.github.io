@@ -13,6 +13,7 @@ I am currently a Ph.D. candidate in Mechanical Engineering at [Stony Brook Unive
 
 What's new?
 ======
+- 10/2024: Our [paper](https://onlinelibrary.wiley.com/doi/full/10.1002/admt.202400990) on human-robot collaborations enabled by silent speech interface has been published on *Advanced Materials Technologies*!
 - 05/2024: I successfully defended my PhD dissertation proposal titled 'Unobtrusive Silent Speech Interfaces Enabled by Soft Electronics'!
 - 11/2023: <a href="/files/poster1.pdf">Poster</a> presentation at 2023 MRS Fall Meeting & Exhibit in Boston.
 - 09/2023: Our [paper](https://pubs.rsc.org/en/content/articlelanding/2023/mh/d3mh01062g) on magnetic skin has been published on *Materials Horizons*!
